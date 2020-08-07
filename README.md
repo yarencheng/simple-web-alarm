@@ -1,3 +1,3 @@
 ## Simple Web Alarm
 
-[demo](http://todo)
+[demo](https://yarencheng.github.io/simple-web-alarm/)

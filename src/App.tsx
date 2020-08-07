@@ -39,7 +39,7 @@ class App extends React.Component<IProps, IState> {
       nowMoment: moment(),
       time: this.props.cookies.get('time') ? moment(parseInt(this.props.cookies.get('time'))) : undefined,
       enabled: this.props.cookies.get('enabled') === 'true',
-      youtubeId: this.props.cookies.get('youtubeId') ? this.props.cookies.get('youtubeId') : 'kJQP7kiw5Fk',
+      youtubeId: this.props.cookies.get('youtubeId') ? this.props.cookies.get('youtubeId') : '2g811Eo7K8U',
       isPlaying: false,
       autoplay: this.props.cookies.get('autoplay') === 'true',
     }
@@ -212,6 +212,7 @@ class App extends React.Component<IProps, IState> {
           <Button
             type="link"
             icon={<GithubOutlined />}
+            href='https://github.com/yarencheng/simple-web-alarm'
           >
             yarencheng/simple-web-alarm
           </Button>
