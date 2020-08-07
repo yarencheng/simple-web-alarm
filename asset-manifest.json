@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-web-alarm/static/css/main.266173d9.chunk.css",
+    "main.js": "/simple-web-alarm/static/js/main.77e43416.chunk.js",
+    "main.js.map": "/simple-web-alarm/static/js/main.77e43416.chunk.js.map",
+    "runtime-main.js": "/simple-web-alarm/static/js/runtime-main.50b542d7.js",
+    "runtime-main.js.map": "/simple-web-alarm/static/js/runtime-main.50b542d7.js.map",
+    "static/css/2.9c8c8187.chunk.css": "/simple-web-alarm/static/css/2.9c8c8187.chunk.css",
+    "static/js/2.d21abcbc.chunk.js": "/simple-web-alarm/static/js/2.d21abcbc.chunk.js",
+    "static/js/2.d21abcbc.chunk.js.map": "/simple-web-alarm/static/js/2.d21abcbc.chunk.js.map",
+    "index.html": "/simple-web-alarm/index.html",
+    "precache-manifest.589fd61b0ae59301cdd52881daf133bc.js": "/simple-web-alarm/precache-manifest.589fd61b0ae59301cdd52881daf133bc.js",
+    "service-worker.js": "/simple-web-alarm/service-worker.js",
+    "static/css/2.9c8c8187.chunk.css.map": "/simple-web-alarm/static/css/2.9c8c8187.chunk.css.map",
+    "static/css/main.266173d9.chunk.css.map": "/simple-web-alarm/static/css/main.266173d9.chunk.css.map",
+    "static/js/2.d21abcbc.chunk.js.LICENSE.txt": "/simple-web-alarm/static/js/2.d21abcbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b542d7.js",
+    "static/css/2.9c8c8187.chunk.css",
+    "static/js/2.d21abcbc.chunk.js",
+    "static/css/main.266173d9.chunk.css",
+    "static/js/main.77e43416.chunk.js"
+  ]
+}
